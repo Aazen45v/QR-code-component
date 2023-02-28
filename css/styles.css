@@ -2,33 +2,35 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
+
 img{
     position: relative;
-    bottom: 20px;
-    height: 250px;
-    width: 250px;
-    border-radius: 20px;
+    bottom: 5%;
+    height: 50%;
+    width: 85%;
+    border-radius: 5%;
 }
 
 h2{
     font-family: 'Outfit', sans-serif;
+    font-size: 1.5rem;
     width: 85%;
-    margin: 20px auto;
+    margin: 8% auto;
 }
 
 p{
-    font-size: 15px;
+    font-size: 0.9375rem;
     color: rgb(173, 173, 173);
     width: 85%;
-    margin: 20px auto;
+    margin: 8% auto;
 }
 
 .block{
     text-align: center;
     background-color: white;
-    margin: 100px auto;
-    padding-top: 30px;
+    margin: 6% auto;
+    padding-top: 3%;
     width: 19%;
-    border-radius: 20px;
+    border-radius: 5%;
     height: 450px;
 }
